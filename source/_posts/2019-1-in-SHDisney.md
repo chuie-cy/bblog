@@ -7,9 +7,9 @@ tags:
 ![img](https://i.loli.net/2020/06/28/OKXgbnCxy64uhfs.jpg)
 *balloon* 🎈
 ![img](https://i.loli.net/2020/06/28/JgPp6SKneqxDTvh.jpg)
-**Nick Wilde**
+**Nick Wilde** 🦊
 ![img](https://i.loli.net/2020/06/28/ehwYI1XOBEMpatg.jpg)
-**Donald Duck**
+**Donald Duck** 🦆
 ![img](https://i.loli.net/2020/06/28/K5hyzTCYnEwAUMd.jpg)
 ***Beauty and the Beast***  in [EXPLORER CANOES](https://www.shanghaidisneyresort.com/attractions/explorer-canoes/)
 ![img](https://i.loli.net/2020/06/28/VdZlX25hQs7NSC4.jpg)

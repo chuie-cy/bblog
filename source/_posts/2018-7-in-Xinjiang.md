@@ -8,11 +8,11 @@ tags:
 ![img](https://i.loli.net/2020/06/28/GE9dwKDktQJSlBc.jpg)
 ![img](https://i.loli.net/2020/06/28/mbjUg4NnTDIWkZt.jpg)
 ![img](https://i.loli.net/2020/06/28/juxQPyNFLsz1hv8.jpg)
-*The lake and the blue sky all blend into one harmonious whole*
+*The lake and the blue sky all blend into one harmonious whole.*
 *If I'm gonna die,let's die somewhere pretty.*
 ![img](https://i.loli.net/2020/06/28/d7b5xji3FkLMe1D.jpg)
-**blue lake**
+**blue lake**🌊
 ![img](https://i.loli.net/2020/06/28/a2dI7kLb6pu9sqB.jpg)
-**Lovely plants**
+**Lovely plants**🌳
 民宿也特别可爱，在重峦叠嶂的山峰里，沿着石板走下去可以看到很多牛羊马在慢悠悠地散步。
 ![img](https://i.loli.net/2020/06/28/6NpQd1ha9DlGOHT.jpg)
