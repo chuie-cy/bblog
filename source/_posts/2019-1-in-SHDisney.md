@@ -9,5 +9,6 @@ tags:
 ![img](https://i.loli.net/2020/06/28/ehwYI1XOBEMpatg.jpg)
 ![img](https://i.loli.net/2020/06/28/K5hyzTCYnEwAUMd.jpg)
 ![img](https://i.loli.net/2020/06/28/VdZlX25hQs7NSC4.jpg)
+***Beauty and the Beast*** in <u>EXPLORER CANOES</u>
 ![img](https://i.loli.net/2020/06/28/VCPeQ9Ua4NzkhAr.jpg)
-*fireworks*
+*fireworks🎇*
