@@ -7,11 +7,11 @@ fancybox: true
 # main menu navigation
 # ====================================
 menu:
-  home: /
-  archive: /archives
+  主页: /
+  归档: /archives
   #category: /categories
   #tags: /tags
-  about: /about
+  关于: /about
 
 # site logo introduce and footer quote
 # ====================================
@@ -22,14 +22,13 @@ quote: "关于人生我何必开窍"
 # social club
 # ====================================
 social:
-  zhihu: https://www.zhihu.com/
+  douban: https://www.douban.com/
   weibo: https://weibo.com
   github: https://github.com/
   steam:
   linkedin:
   facebook:
   twitter:
-  douban:
   tumblr:
   instagram:
   stackoverflow:
