@@ -7,11 +7,11 @@ fancybox: true
 # main menu navigation
 # ====================================
 menu:
-  HOME: /
-  ARCHIVES: /archives
+  home: /
+  archive: /archives
   #category: /categories
   #tags: /tags
-  ABOUT: /about
+  about: /about
 
 # site logo introduce and footer quote
 # ====================================
