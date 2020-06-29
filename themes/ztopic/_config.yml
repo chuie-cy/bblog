@@ -6,12 +6,12 @@ fancybox: true
 
 # main menu navigation
 # ====================================
-
-  主页: /
-  归档: /archives
+menu:
+  HOME: /
+  ARCHIVES: /archives
   #category: /categories
   #tags: /tags
-  关于: /about
+  ABOUT: /about
 
 # site logo introduce and footer quote
 # ====================================
