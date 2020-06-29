@@ -6,7 +6,7 @@ fancybox: true
 
 # main menu navigation
 # ====================================
-menu:
+
   主页: /
   归档: /archives
   #category: /categories
@@ -22,9 +22,9 @@ quote: "关于人生我何必开窍"
 # social club
 # ====================================
 social:
-  douban: https://www.douban.com/
   weibo: https://weibo.com
   github: https://github.com/
+  douban: https://www.douban.com/
   steam:
   linkedin:
   facebook:
